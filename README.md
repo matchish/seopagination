@@ -22,10 +22,10 @@ app('seopagination')->setPaginator($posts);
 in blade view
 
 ``` php
-        @canonical
-        @metaYandex
-        @seoPaginationPrev
-        @seoPaginationNext
+@canonical
+@metaYandex
+@seoPaginationPrev
+@seoPaginationNext
 ```
 
 
