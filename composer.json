@@ -1,7 +1,7 @@
 {
     "name": "matchish/seopagination",
     "type": "library",
-    "description": "Seo [D[D[D[D[D[D",
+    "description": "Blade extentions for seo pagination",
     "keywords": [
         "matchish",
         "seopagination"
