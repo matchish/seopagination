@@ -10,6 +10,14 @@ Via Composer
 ``` bash
 $ composer require matchish/seopagination
 ```
+Add to config/app.php
+
+``` php
+'providers' => 
+...
+Matchish\SeoPagination\SeoPaginationServiceProvider::class,
+...
+```
 
 ## Usage
 
