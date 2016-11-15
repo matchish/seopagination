@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "matchish\\seopagination\\": "src"
+            "Matchish\\Seopagination\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "matchish\\seopagination\\": "tests"
+            "Matchish\\Seopagination\\": "tests"
         }
     },
     "scripts": {
