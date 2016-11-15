@@ -15,7 +15,7 @@ Add to config/app.php
 ``` php
 'providers' => 
 ...
-Matchish\Seopagination\SeoPaginationServiceProvider::class,
+Matchish\SeoPagination\SeoPaginationServiceProvider::class,
 ...
 ```
 
