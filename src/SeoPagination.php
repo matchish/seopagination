@@ -1,6 +1,6 @@
 <?php
 
-namespace Matchish\Seopagination;
+namespace Matchish\SeoPagination;
 
 use Illuminate\Pagination\Paginator;
 
